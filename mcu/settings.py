@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'avenger.apps.AvengerConfig'
+    'avenger.apps.AvengerConfig',
+    'black_order.apps.BlackOrderConfig'
 ]
 
 MIDDLEWARE = [
